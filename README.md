@@ -1,51 +1,41 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Automação de Tarefas com Python e Selenium
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Este projeto consiste na criação de um ebook que guia os leitores na automação de tarefas usando Python e Selenium. O objetivo é ensinar desde os conceitos básicos até técnicas avançadas de automação, proporcionando uma compreensão completa e prática do uso dessas ferramentas poderosas.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+- **ChatGPT**: Para geração de conteúdo textual e explicações detalhadas sobre os conceitos de automação.
+- **Leonardo.IA**: Para criação da imagem gerada.
+- **Microsoft Word**: Para a formatação e finalização do ebook, garantindo uma apresentação profissional e estética.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+1. **Planejamento**:
+   - Definição dos tópicos a serem abordados no ebook.
+   - Estruturação do conteúdo em capítulos e seções.
+
+2. **Geração de Conteúdo**:
+   - Utilização do ChatGPT para escrever os textos introdutórios, explicativos e exemplos de código.
+   - Edição e revisão do conteúdo gerado para assegurar clareza e precisão técnica.
+
+3. **Criação de Ilustrações**:
+   - Uso do Leonardo.IA para gerar imagem.
+   - Integração da imagem com o texto para criar uma experiência de leitura envolvente.
+
+4. **Formatação do Ebook**:
+   - Importação do conteúdo textual e visual para o Microsoft Word.
+   - Aplicação de estilos e formatação para criar um layout coeso e esteticamente agradável.
+   - Revisão final e exportação do ebook para o formato desejado.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+O resultado é um ebook abrangente e bem estruturado que serve como um guia completo para quem deseja aprender sobre automação de tarefas com Python e Selenium. O ebook inclui:
+
+- Introdução aos conceitos de automação.
+- Passo a passo detalhado para configurar o ambiente de desenvolvimento.
+- Exemplos práticos de scripts de automação.
+- Dicas e truques para otimizar e depurar scripts de Selenium.
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+Criar um ebook utilizando IAs foi um desafio interessante. A integração das diferentes ferramentas de IA possibilitou a produção de conteúdo de alta qualidade de forma eficiente. A utilização de ChatGPT para geração de texto e Leonardo.IA para criação de gráficos complementou-se perfeitamente, resultando em um material didático e visualmente atraente. Este processo destacou o potencial das IAs generativas em projetos educacionais e de publicação.
 
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+## Links do ebook
+https://github.com/jefersontave/E-book_Selenium_Python
